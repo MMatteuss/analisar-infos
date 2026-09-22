@@ -1,0 +1,31 @@
+padrão que notel:
+size:0.90 - prs:1.0 - p:1/1
+-------
+botão para "add contato"
+X=1005.0
+Y=2106.1
+------------
+Lupa pesquisar
+X=950.0
+Y=167.8
+--------
+esperar 3 segundo
+colocar alguma forma de vereficar a tela, tipo, ler a tela, e se achar a mensagem "Comversar"
+ele irar apertar aqui:
+X=912.2
+Y=380.7
+
+senão ele irar apertar em:
+X=56.9
+Y=159.8
+e irar apertar em Lupa pesquisar, mas agora outro numero
+
+caso ele ache o botão "Comversar", ele irar apertar em:
+X=940.0
+Y=385.7
+Quando apertar ele vai escrever a mensagem, e depois disso
+ele vai apertar em enter
+agora ele vai apertar no botão de voltar:
+X=56
+Y=174.8
+Agora ele vai voltar a fazer tudo novamente, apertar em "add contato"
